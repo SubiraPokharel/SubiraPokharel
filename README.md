@@ -1,5 +1,5 @@
 
-## Hi, I'm Subira <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tushantman.TushantMan" />
+## Hi, I'm Subira <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subirapokharel.SubiraPokharel" />
 
 I'm Subira Pokharel an AI Engineer and Freelancer Artist. I Spend most of my creating and teaching art, and getting through with my AI assignments.
 
